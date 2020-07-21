@@ -21,6 +21,7 @@ The dataset contains genomic and phenotypic data of 7,646 Holstein's Friesian ca
 I've analyzed two workability traits:
 * Milking speed
 * Milking temperament  
+
 The "plots" folder contains histogram of data's distribution, and boxplot showing basic statistic.
 ### Genotopic data
 The genomic data concern the 29 chromosome. This chromosome is important, because the QTL sites turned out to be the most important on this chromosome for given workability traits. Genomic markers were obtained using the Illumina BovineSNP50 BeadChip Version 2 microarray. The maximum number of SNP per chromosome for one individual is 951. Missing data is 0.007%.
